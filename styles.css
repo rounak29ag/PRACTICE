@@ -4,5 +4,6 @@ body
 }
 
 .image{
-  float:right;
+  position:absolute;
+  right:0;
 }
